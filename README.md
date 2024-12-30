@@ -51,4 +51,4 @@ A comprehensive task management application built using Kotlin and Jetpack Compo
 
 ---
 
-Note : The scheduler part is still not completed. I am currently working on the that part. 
+Note : The scheduler part is still not completed. I am currently working on that part. 
